@@ -1,0 +1,43 @@
+main {
+  background-color: #252525;
+}
+.Episode {
+  color: lightblue;
+}
+.CharacterCard {
+  display: flex;
+  justify-content: center;
+  flex: 1;
+
+  padding: 1rem;
+  margin: 10rem;
+
+  background-color: lightblue;
+  border-radius: 64px;
+  width: 75%;
+}
+.CharacterCard ul li {
+  text-align: center;
+  list-style: none;
+}
+a {
+  color: #252525;
+  text-decoration: none;
+}
+.CharacterCard img {
+  justify-items: center;
+  width: 50%;
+  border-radius: 16px;
+}
+@media screen and (max-width: 600px) {
+  .CharacterCard {
+    padding: 1rem;
+    margin: 2rem;
+    background-color: lightblue;
+  }
+  .CharacterCard img {
+    justify-items: center;
+    width: 75%;
+    border-radius: 16px;
+  }
+}

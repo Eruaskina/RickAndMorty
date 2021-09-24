@@ -1,0 +1,12 @@
+.EpisodeCard {
+  padding: 1.5rem;
+  margin: 1.5rem;
+  background-color: lightblue;
+  list-style-type: none;
+  border-radius: 36px;
+}
+
+.EpisodeCard img {
+  width: 25%;
+  border-radius: 72px;
+}

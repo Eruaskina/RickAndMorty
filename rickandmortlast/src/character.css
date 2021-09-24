@@ -1,0 +1,17 @@
+.Character {
+  justify-items: center;
+  text-align: center;
+  color: lightblue;
+}
+.Character ul li {
+  list-style-type: none;
+}
+.Character img {
+  border-radius: 24px;
+}
+.Episodes {
+  color: lightblue;
+}
+.Episodes Link {
+  color: lightblue;
+}
