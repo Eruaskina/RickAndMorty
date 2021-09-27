@@ -7,3 +7,5 @@ Yine de sizlere boş bir proje göndermek istemediğim için yapabildiğim kadar
 
 - `npm install` or `yarn`
 - `npm run start` or `yarn start`
+
+Email: alper3c3@gmail.com
